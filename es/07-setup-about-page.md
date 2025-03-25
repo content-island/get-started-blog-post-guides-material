@@ -1,4 +1,4 @@
-# About page
+# 7. Montando la página de About
 
 Vamos a montar la página de **About**, aquí podemos tomar dos aproximaciones:
 
@@ -49,17 +49,17 @@ Y ahora vamos a definir una API para extraer estos datos.
 _./src/pages/about/about.api.ts_
 
 ```ts
-import { mapContentToModel } from "@content-island/api-client";
-import client from "../../lib/client";
-import type { About } from "./about.model";
+import { mapContentToModel } from '@content-island/api-client';
+import client from '../../lib/client';
+import type { About } from './about.model';
 
 export async function getAbout(): Promise<About> {
   const AboutContentCollection = await client.getContent(
     // TODO: IMPORTANTE PON EL ID QUE TENGAS EN TU INSTANCIA
     // DE About en Content Island
-    "67c9817f98e17b1396f20d0f",
+    '67c9817f98e17b1396f20d0f',
     {
-      contentType: "About",
+      contentType: 'About'
     }
   );
 

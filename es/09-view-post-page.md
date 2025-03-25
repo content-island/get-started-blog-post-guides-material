@@ -1,4 +1,4 @@
-# Mostrar un post
+# 9. Montando un post
 
 Para la página en la que mostrar un post vamos a reaprovechar mucho de lo que ya hemos hecho en la página de listado de posts. Y te estarás preguntando: ¿Y esto por qué, si aquí estoy sólo cargando un post? Esto es así por como trabaja astro. En tiempo de generación, se leen todos los posts y se genera cada página con su posts, por lo que el proceso es muy similar al de la página de listado de posts.
 

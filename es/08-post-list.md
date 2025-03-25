@@ -1,4 +1,4 @@
-# Home Page - Listado de posts
+# 8. Página con lista de posts
 
 Vamos a por la página principal. En este caso, queremos mostrar un listado de los posts que se han publicado.
 

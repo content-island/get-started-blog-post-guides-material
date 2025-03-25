@@ -1,4 +1,4 @@
-# Creando la estructura de carpetas
+# 5. Creando la estructura de carpetas
 
 En nuestro sitio web, queremos tener las siguientes páginas:
 

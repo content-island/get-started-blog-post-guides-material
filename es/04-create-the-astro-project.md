@@ -1,4 +1,4 @@
-# 4. Creando el proyecto
+# 4. Creando el proyecto en Astro
 
 Para crear el proyecto con Astro, vamos a arrancar desde cero.
 

@@ -6,7 +6,7 @@ En Content Island, vamos a la pestaña "Contenido", y hacemos click en el botón
 
 Y en "Contenido", rellenamos los campos obligatorios, en este caso son todos :):
 
-- En **picture**, subimos la imagen que queremos que aparezca.
+- En picture, subimos la imagen que queremos que aparezca.
   En nuesto caso: [About image](../material/about-page/about-profile-picture.jpg).
 - En fullname, añadimos el nombre: John Doe.
 - En shortBio, añadimos una pequeña descripción. Nosotros vamos a usar texto ficticio: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas et vehicula purus.

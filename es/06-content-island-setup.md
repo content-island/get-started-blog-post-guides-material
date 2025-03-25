@@ -1,4 +1,4 @@
-# Setup content Island
+# 6. Contectando Content Island con Astro
 
 Ya estamos listos para empezar a insertar contenido de Content Island en nuestro sitio.
 
